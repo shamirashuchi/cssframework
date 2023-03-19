@@ -1,0 +1,28 @@
+#header{
+    background-image: url(../images/banner.png), url(../images/grediant.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+.btn-news{
+    max-width: 170px;
+}
+
+.user{
+    width: 150px;
+}
+
+.ratings > img{
+    width: 22px;
+}
+
+.footer{
+    background-color: black!important;
+}
+
+hr{
+    width: 7%;
+}
+
